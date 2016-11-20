@@ -1,6 +1,6 @@
 {
   "name": "polyfills-service-webpack-plugin",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Adds polyfills to bundle file, without magic.",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Brogency/webpack-polyfills-plugin"
+    "url": "https://github.com/benweizhu/webpack-polyfills-plugin"
   },
   "keywords": [
     "webpack"
@@ -16,9 +16,9 @@
   "author": "Andrey Kogut(Benwei modified)",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Brogency/webpack-polyfills-plugin/issues"
+    "url": "https://github.com/benweizhu/webpack-polyfills-plugin/issues"
   },
-  "homepage": "https://github.com/Brogency/webpack-polyfills-plugin",
+  "homepage": "https://github.com/benweizhu/webpack-polyfills-plugin",
   "dependencies": {
     "webpack-core": "^0.6.6"
   },
