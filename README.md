@@ -10,7 +10,7 @@ Adds polyfills from [polyfill-service](https://github.com/Financial-Times/polyfi
 * Second Parameter is provide for customer config which file you do not want to Poly, If you not provide this parameter, All files will execute Poly. This must be a Regular Expression
 
 ```javascript
-var PolyfillsPlugin = require('webpack-polyfills-plugin');
+var PolyfillsPlugin = require('polyfills-service-webpack-plugin');
 
 module.exports = {
 
