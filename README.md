@@ -26,3 +26,9 @@ module.exports = {
    ]
 }
 ```
+
+Benwei modified
+
+```
+npm install polyfills-service-webpack-plugin --save-dev
+```
